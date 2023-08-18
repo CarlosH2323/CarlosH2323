@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-<img align="center" alt="snake eating my contributions" src="https://[raw.githubusercontent.com/MatheusPignata/MatheusPignata](https://github.com/Carlosh1Des)/output/github-contribution-grid-snake-dark.svg">
+
 </div>
