@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/Carlosh1Des?tab=repositories">font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%94%B1+Just+trying+to+be+better+%F0%9F%94%B1" alt="Typing SVG" /></a>
+<a href="https://github.com/Carlosh1Des
 </p>
 
 <div>
