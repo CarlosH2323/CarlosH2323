@@ -1,10 +1,10 @@
 <p align="center">
-<a href="https://github.com/matheuspignata?tab=repositories"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%94%B1+Just+trying+to+be+better+%F0%9F%94%B1" alt="Typing SVG" /></a>
+<a href="https://github.com/Carlosh1Des?tab=repositories">font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&height=30&lines=%F0%9F%94%B1+Just+trying+to+be+better+%F0%9F%94%B1" alt="Typing SVG" /></a>
 </p>
 
 <div>
-  <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/matheuspignata22/"><i>Matheus</i></a> 🫡</h1>
-  <p align="center">I am a programming student and I use this profile to store most of my studies and work, feel free to check! 😉️</h2>
+  <h1 align="center">Hello, I'm <i>Carlos</i></a> 🫡</h1>
+  <p align="center">I am a programming student and I use this profile to store most of my studies and work</h2>
 </div>
 
 <div align="center">
