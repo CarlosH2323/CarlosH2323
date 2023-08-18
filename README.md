@@ -3,7 +3,7 @@
 </p>
 
 <div>
-  <h1 align="center">Hello, I'm <i>Carlos</i></a> 🫡</h1>
+  <h1 align="center">Hello I'm <i>Carlos Henrique</i></a> 🫡</h1>
   <p align="center">I am a programming student</h2>
 </div>
 
@@ -42,5 +42,5 @@
 </div>
 
 <div align="center">
-  <img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/Carlosh1Des/Carlosh1Des/output/github-contribution-grid-snake-dark.svg">
+<img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MatheusPignata/MatheusPignata/output/github-contribution-grid-snake-dark.svg">
 </div>
