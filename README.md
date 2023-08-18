@@ -4,7 +4,7 @@
 
 <div>
   <h1 align="center">Hello, I'm <i>Carlosh1Des</i></a> 🫡</h1>
-  <p align="center">I am a programming student and I use this profile to store most of my studies and work, feel free to check! 😉️</h2>
+
 </div>
 
 <div align="center">
@@ -32,15 +32,9 @@
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
  width="40" height="40"/> </a> 
 </p>
-
 </div><br>
-
-##
-
 <div align="center">
   <a href="https://www.instagram.com/Carloshj_021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
   <a href="https://discord.gg/Carlos.Z" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-
-
